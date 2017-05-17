@@ -1,0 +1,30 @@
+{
+	"name": "friend-finder",
+	"version": "1.0.0",
+	"description": "a website to find and match friends",
+	"main": "server.js",
+	"dependencies": {
+		"body-parser": "^1.17.1",
+		"express": "^4.15.2"
+	},
+	"devDependencies": {},
+	"Scripts": {
+		"test": "echo\"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"respository":{
+		"type": "git",
+		"url": "git+https://github.com/pj040887/Friend Finder.git"
+	},
+	"keywords":[
+		"frineds",
+		"finder"
+		"express"
+	],
+	"author": "Patrick Jett",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/pj040887/FriendFinder/issues"
+	},
+	"homepage": "https://github.com/pj040887/FriendFinder#readme"
+}
